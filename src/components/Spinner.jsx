@@ -3,8 +3,8 @@ import "./Spinner.css"
 
 const Spinner = () => {
   return (
-    <div className='grid items-center justify-center w-screen h-screen'>
-      <div className='hypnotic'></div>
+    <div className='grid items-center justify-center  h-screen'>
+      <span class="loader"></span>
     </div>
   )
 }
