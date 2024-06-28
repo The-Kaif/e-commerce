@@ -11,7 +11,7 @@ This is a React application that implements Progressive Web App (PWA) features, 
 
 ## Features
 
-- React application with routing and state management.
+- React application with routing and state management system.
 - Offline capabilities with service workers.
 - Responsive design.
 - Product listing page with API integration.
