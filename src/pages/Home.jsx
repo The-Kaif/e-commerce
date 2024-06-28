@@ -11,7 +11,6 @@ const Home = () => {
 
   async function fetchProductData() {
     setLoading(true);
-
     try {
       const response = await fetch(API_URL);
       const data = await response.json();

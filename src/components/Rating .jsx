@@ -1,5 +1,5 @@
 import React from 'react';
-
+// Rating star component
 const Rating = ({ count }) => {
   const fullStars = Math.floor(count);
   const stars = [];
